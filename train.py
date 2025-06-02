@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import warnings
 warnings.filterwarnings('ignore')
-df= pd.read_csv(r'C:\Users\hafss\OneDrive\Desktop\PFA_2A\youtube\MLOPS-project\data\comments_detailed.csv')
+df= pd.read_csv('.\data\comments_detailed.csv')
 import pandas as pd
 import string
 import re
