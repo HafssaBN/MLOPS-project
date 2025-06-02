@@ -1,0 +1,20 @@
+{
+  "total_samples": 26166,
+  "toxic_bot_count": 22969,
+  "normal_count": 3197,
+  "toxic_percentage": 87.78185431475961,
+  "sample_toxic_comments": [
+    "Hope you enjoyed the video!! Get the list of prompts I used in the video here: https://go.aliabdaal.com/ytd/aicoach",
+    "Now now let's stop exaggerations 365?",
+    "not recieving it ali",
+    "Tried multiple times and checked junk/spam but it\u2019s not coming at all.",
+    "Bro thanks for sharing this vulnerable moment. You\u2019re channel just got real again. This is authenticity is what drew me to your channel years ago. More videos like this but with no edits, let the silence be. No more algorithm slavery. Just the freedom to be you. I\u2019m here to see Ali, more than whatever subject you choose. The real Ali. Big hug bro. Congrats on the baby."
+  ],
+  "sample_normal_comments": [
+    "damnnnn",
+    "Thank you",
+    "THANK YOU",
+    "\ud83d\udcaf agree!",
+    "Agreed"
+  ]
+}

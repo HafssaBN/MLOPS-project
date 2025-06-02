@@ -1,0 +1,17 @@
+{
+  "class_weights": {
+    "1": 0.5695938003395882,
+    "0": 4.092274006881452
+  },
+  "best_params": {
+    "architecture": "ImprovedResNet",
+    "hidden_dim": 256,
+    "dropout_rate": 0.10301892772651725,
+    "batch_size": 128,
+    "learning_rate": 0.006191801342424958,
+    "optimizer": "AdamW",
+    "weight_decay": 0.0001640148320264181,
+    "num_blocks": 1
+  },
+  "model_ready": true
+}

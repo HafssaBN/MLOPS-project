@@ -1,0 +1,13 @@
+# Exclude the entire logs directory from the build context
+logs/
+
+# Exclude Python cache files
+__pycache__/
+*.pyc
+
+# Exclude Git repository data
+.git/
+
+# Exclude environment variable files
+.env
+

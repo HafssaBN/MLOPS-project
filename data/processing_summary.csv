@@ -1,0 +1,6 @@
+filename,rows,columns,size_mb
+channel_stats.csv,1,5,0.0
+video_details.csv,1078,16,2.1
+comments_detailed.csv,27614,23,16.01
+comment_statistics.csv,1075,14,0.06
+top_commenters.csv,20,4,0.0

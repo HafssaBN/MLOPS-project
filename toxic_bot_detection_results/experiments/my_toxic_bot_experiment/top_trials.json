@@ -1,0 +1,150 @@
+[
+  {
+    "number": 10,
+    "value": 0.9149749223787915,
+    "params": {
+      "architecture": "ImprovedResNet",
+      "hidden_dim": 256,
+      "dropout_rate": 0.10301892772651725,
+      "batch_size": 128,
+      "learning_rate": 0.006191801342424958,
+      "optimizer": "AdamW",
+      "weight_decay": 0.0001640148320264181,
+      "num_blocks": 1
+    },
+    "state": "1"
+  },
+  {
+    "number": 12,
+    "value": 0.9130642464771913,
+    "params": {
+      "architecture": "ImprovedResNet",
+      "hidden_dim": 256,
+      "dropout_rate": 0.101669095666454,
+      "batch_size": 128,
+      "learning_rate": 0.008710212898821026,
+      "optimizer": "AdamW",
+      "weight_decay": 0.0003604182605436953,
+      "num_blocks": 1
+    },
+    "state": "1"
+  },
+  {
+    "number": 11,
+    "value": 0.9116312395509911,
+    "params": {
+      "architecture": "ImprovedResNet",
+      "hidden_dim": 256,
+      "dropout_rate": 0.10338441971304863,
+      "batch_size": 128,
+      "learning_rate": 0.006793280746408591,
+      "optimizer": "AdamW",
+      "weight_decay": 0.00015721860158948017,
+      "num_blocks": 1
+    },
+    "state": "1"
+  },
+  {
+    "number": 1,
+    "value": 0.9058992118461906,
+    "params": {
+      "architecture": "ImprovedResNet",
+      "hidden_dim": 256,
+      "dropout_rate": 0.15579754426081674,
+      "batch_size": 128,
+      "learning_rate": 0.0037183641805732083,
+      "optimizer": "AdamW",
+      "weight_decay": 0.00015304852121831474,
+      "num_blocks": 1
+    },
+    "state": "1"
+  },
+  {
+    "number": 15,
+    "value": 0.9023166945306902,
+    "params": {
+      "architecture": "ImprovedResNet",
+      "hidden_dim": 256,
+      "dropout_rate": 0.16221163531029004,
+      "batch_size": 128,
+      "learning_rate": 0.006776986406733501,
+      "optimizer": "AdamW",
+      "weight_decay": 7.040935075473663e-05,
+      "num_blocks": 1
+    },
+    "state": "1"
+  },
+  {
+    "number": 13,
+    "value": 0.9006448531167901,
+    "params": {
+      "architecture": "ImprovedResNet",
+      "hidden_dim": 256,
+      "dropout_rate": 0.10124089480263952,
+      "batch_size": 128,
+      "learning_rate": 0.003919079661161802,
+      "optimizer": "AdamW",
+      "weight_decay": 0.000511429923395786,
+      "num_blocks": 1
+    },
+    "state": "1"
+  },
+  {
+    "number": 4,
+    "value": 0.9004060186290901,
+    "params": {
+      "architecture": "ImprovedDeepNN",
+      "hidden_dim": 64,
+      "dropout_rate": 0.31707843326329943,
+      "batch_size": 64,
+      "learning_rate": 0.009413993046829943,
+      "optimizer": "Adam",
+      "weight_decay": 1.0257563974185649e-05,
+      "num_layers": 3
+    },
+    "state": "1"
+  },
+  {
+    "number": 18,
+    "value": 0.8977788392643897,
+    "params": {
+      "architecture": "ImprovedMLP",
+      "hidden_dim": 256,
+      "dropout_rate": 0.36673636095505235,
+      "batch_size": 128,
+      "learning_rate": 0.009955255280057307,
+      "optimizer": "AdamW",
+      "weight_decay": 0.0009898787643116001
+    },
+    "state": "1"
+  },
+  {
+    "number": 7,
+    "value": 0.8946739909242895,
+    "params": {
+      "architecture": "ImprovedMLP",
+      "hidden_dim": 64,
+      "dropout_rate": 0.21590058116550723,
+      "batch_size": 64,
+      "learning_rate": 0.0018484491720988621,
+      "optimizer": "Adam",
+      "weight_decay": 2.3612399244412595e-05
+    },
+    "state": "1"
+  },
+  {
+    "number": 16,
+    "value": 0.8882254597563888,
+    "params": {
+      "architecture": "ImprovedResNet",
+      "hidden_dim": 256,
+      "dropout_rate": 0.260091468277447,
+      "batch_size": 128,
+      "learning_rate": 0.0021932608435924436,
+      "optimizer": "AdamW",
+      "weight_decay": 0.00032097864674854873,
+      "num_blocks": 1
+    },
+    "state": "1"
+  }
+]

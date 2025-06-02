@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-06-01 11:11:46",
+  "files_generated": [
+    "channel_stats.csv",
+    "video_details.csv",
+    "comments_detailed.csv",
+    "comment_statistics.csv",
+    "top_commenters.csv"
+  ],
+  "data_summary": {
+    "channel_stats.csv": {
+      "rows": 1,
+      "columns": 5,
+      "size_mb": 0.0
+    },
+    "video_details.csv": {
+      "rows": 1078,
+      "columns": 16,
+      "size_mb": 2.1
+    },
+    "comments_detailed.csv": {
+      "rows": 27614,
+      "columns": 23,
+      "size_mb": 16.01
+    },
+    "comment_statistics.csv": {
+      "rows": 1075,
+      "columns": 14,
+      "size_mb": 0.06
+    },
+    "top_commenters.csv": {
+      "rows": 20,
+      "columns": 4,
+      "size_mb": 0.0
+    }
+  }
+}
